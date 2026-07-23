@@ -48,7 +48,7 @@
   }
 
   /* typewriter role text */
-  var roles = ["IT Graduate", "Database & SQL Specialist", "Software Developer", "Creative at heart"];
+  var roles = ["IT Undergraduate student", "Database Developer", "Software Developer", "Tutor", "Creative at heart"];
   var roleEl = document.getElementById('typed-role');
   var ri = 0;
   function typeRole(){
